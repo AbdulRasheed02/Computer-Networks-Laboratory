@@ -1,0 +1,6 @@
+1. TCP with topologies:
+    1.a. Star Topology
+    1.b. Ring Topology
+    1.c. Tree Topology
+2. UDP Star Topology
+3. Star topology throughput
