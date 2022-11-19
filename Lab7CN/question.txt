@@ -1,0 +1,9 @@
+Simulate the Distance Vector Routing with randomly deployed 50 stations. 
+Check for the Count –to-Infinity problem.  
+If it is not existing, then impose the problem and 
+then implement any two solutions to resolve the Count-to-Infinity problem 
+occurred in the routing protocol. Run the simulation for 100secs. 
+Measure and plot the network performance in terms of PDR, PLR, routing overhead 
+and route reconstruction rate for every 10sec interval.
+
+#Same code for DVR AND CTF. After running dvr, modify threshold value (From 32 to a larger value in rt_proto dv file) in source code to implement CTF. 
