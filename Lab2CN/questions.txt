@@ -1,0 +1,10 @@
+1)Write a simple TCP iterative server and client to evaluate the given expression.
+The client enters a post fix expression A B + C* D E-F G + * - and sends to the server. There may or may not be spaces before and after the operators. For example, all of the following are valid expressions to enter: “13 + 42*5”, “10+2/4”, “5 + 6 - 3”. The server evaluates the post fix expression and sends the result back to the client. The client displays the result on the screen. It then prompts the user to enter the next expression.
+
+
+2)Design TCP iterative Client and Server application to reverse the given input sentence.
+The problem is to implement a client - server user-level application using sockets API in C / C++ . The Server application has to support at least five clients simultaneously. Server accepts strings from clients (even multiple strings from each client) and replies with reverse strings. For example, when client sends “IITHYD”, Server replies with “DYHTII”. Both server and client(s) have to output both sending & receiving strings on the terminal
+
+3) Using socket programming, implement the following problem.
+The server should be able to keep track of upto 10 simultaneous users.
+First client that connects the server will have privilege to send a C source file to the server. The server will then compile, execute and send the output to all the clients connected to the server. All the clients(except the first one) should stay only in the listen state.
