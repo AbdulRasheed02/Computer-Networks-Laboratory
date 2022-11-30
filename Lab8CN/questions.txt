@@ -1,0 +1,9 @@
+Compare the performance of any four routing protocols with the following topologies:  (i) Linear (ii) Random (iii) Grid .  Assume the following: 
+Number of nodes:  10 nodes for linear topology and 25 nodes for Random and Grid topologies
+Traffic : FTP 
+Queue : Drop Tail
+Number of Source : 50% of node
+Simulation Time:  100 Sec.
+Plot the graphs for the following metrics:
+X axis: Simulation time interval (20, 40, 60, 80 and 100sec)
+Y Axis:  PDR, PLR, routing control overhead and energy consumption

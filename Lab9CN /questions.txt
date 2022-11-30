@@ -1,0 +1,5 @@
+Implement Slotted Aloha, CSMA  and CSMA/CD under linear and random topology with FTP traffic.  Consider the varying number of nodes (10, 20 and 30). Plot graphs for the following
+1.	Throughput VS No. of nodes 
+2.	Packet loss Vs No. of nodes  
+3.	Overhead Vs No. of nodes 
+4.	Fairness Vs No. of  nodes
